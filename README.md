@@ -6,3 +6,10 @@ The outcome of the project was a Tableau UI for song recommendation based on col
 
 The data generation process used listening session histories of 1K users and 100k songs to create user-song interaction matrix. The recommendations were generated using collaborative filtering algorithm, to recommend songs listened by closely associated listeners from the training corpus.
 
+The repository contains the following:
+1. Codes
+2. Tableau Dashboard
+3. Project Poster
+4. Project Report
+5. Installation Description File
+
