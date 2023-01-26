@@ -13,3 +13,5 @@ The repository contains the following:
 4. Project Report
 5. Installation Description File
 
+![Project Poster](PosterImage/team012poster.jpg)
+
