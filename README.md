@@ -13,5 +13,7 @@ The repository contains the following:
 4. Project Report
 5. Installation Description File
 
+You can view the static version of tableau here: [Link](https://public.tableau.com/app/profile/palash.choudhary/viz/EXPLORE-ForWeb/RecommendationDashbaord)
+
 ![Project Poster](PosterImage/team012poster.jpg)
 
