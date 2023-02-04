@@ -1,6 +1,6 @@
 # Song Recommendation System
 
-This project was part of CSE6242 coursework at Georgia Tech. It was completed while working with 3 other fellow batchmates.
+This project was part of CSE6242 coursework at Georgia Tech. It was completed while working with 3 other fellow batchmates: Saksham Arora, Abhinav Arun, and Mehul Soni.
 
 The outcome of the project was a Tableau UI for song recommendation based on collaborative filtering with Python Backend and TabPy integration. The product would take user's spoitfy user id as an input and would generate a personalised playlist. The key feature of the product was mood controls, a toggle bar which allowed the users to update their personalised playlist as per their mood, and explainibility views, a group of charts helping the user to understand the recommended playlist attributes and the source of its origination( how the recommendations were made).
 
